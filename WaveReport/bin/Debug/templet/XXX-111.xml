@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<device>
+<model name="XXX-111">
+<pic1>A 128K</pic1>
+<pic2>A 2048K</pic2>
+<pic3>E1 平衡</pic3>
+<pic4>E1 非平衡</pic4>
+</model>
+</device>

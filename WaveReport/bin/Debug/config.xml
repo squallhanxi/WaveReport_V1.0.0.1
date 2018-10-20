@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gb2312"?>
+<config>
+  <main_config name="main_config">
+    <cut_up>0</cut_up>
+    <cut_down>62</cut_down>
+    <cut_left>2</cut_left>
+    <cut_right>2</cut_right>
+    <pcontray>0</pcontray>
+    <dev_num>1702001</dev_num>
+    <templet>无需模板</templet>
+    <right_down1>军 代 表：</right_down1>
+    <right_down2>检验人员：</right_down2>
+    <rd1>     测   试1     </rd1>
+    <rd2>     测   试2     </rd2>
+  </main_config>
+</config>

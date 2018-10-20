@@ -1,0 +1,45 @@
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\WaveReport.exe.config
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\WaveReport.exe
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\WaveReport.pdb
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\office.dll
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\bin\Debug\office.xml
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.main_Form.resources
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.Properties.Resources.resources
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.csproj.GenerateResource.Cache
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.exe
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.pdb
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.addtempletForm.resources
+F:\我的项目\C#\WaveReport\WaveReport\bin\Debug\WaveReport.exe.config
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\WaveReport.exe
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\WaveReport.pdb
+F:\我的项目\C#\WaveReport\WaveReport\bin\Debug\WaveReport.exe
+F:\我的项目\C#\WaveReport\WaveReport\bin\Debug\WaveReport.pdb
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\WaveReport.addtempletForm.resources
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\WaveReport.main_Form.resources
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\WaveReport.Properties.Resources.resources
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio 2010 Projects\WaveReport\WaveReport\obj\x86\Debug\WaveReport.cutpicForm.resources
+E:\WaveReport\WaveReport\bin\Debug\WaveReport.exe.config
+E:\WaveReport\WaveReport\obj\x86\Debug\WaveReport.exe
+E:\WaveReport\WaveReport\obj\x86\Debug\WaveReport.pdb
+E:\WaveReport\WaveReport\bin\Debug\WaveReport.exe
+E:\WaveReport\WaveReport\bin\Debug\WaveReport.pdb
+E:\WaveReport\WaveReport\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\WaveReport\WaveReport\bin\Debug\office.dll
+E:\WaveReport\WaveReport\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\WaveReport\WaveReport\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\WaveReport\WaveReport\bin\Debug\office.xml
+E:\WaveReport\WaveReport\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WaveReport\WaveReport\obj\x86\Debug\WaveReport.addtempletForm.resources
+E:\WaveReport\WaveReport\obj\x86\Debug\WaveReport.cutpicForm.resources
+E:\WaveReport\WaveReport\obj\x86\Debug\WaveReport.main_Form.resources
+E:\WaveReport\WaveReport\obj\x86\Debug\WaveReport.Properties.Resources.resources
+E:\WaveReport\WaveReport\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WaveReport\WaveReport\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\我的项目\C#\WaveReport\WaveReport\obj\x86\Debug\WaveReport.cutpicForm.resources
